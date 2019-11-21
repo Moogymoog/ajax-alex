@@ -1,3 +1,3 @@
-Heroku : https://alex-ajax.herokuapp.com/
+Heroku : https://ajax-alex.herokuapp.com/
 
 Alexandre Moog
